@@ -57,8 +57,12 @@ function addToList(num, pos)
 -> Simplismente baixa o codigo e abra o arquivo **_index.html_** no seu navegador
 
 ## Imagens da tela
-![]
+tela 1: tela de abertura
+![](\Aula 4\img\Loteria Vazia.png)
+tela 2: 6 numeros digitados nenhum sorteado
+![](\Aula 4\img\Loteria Erro 61.png)
+
 #### Referências
-1. **HTML**: [WikipédiA] ( https://pt.wikipedia.org/wiki/HTML )
-2. **CSS**: [WikipédiA] ( https://pt.wikipedia.org/wiki/Cascading_Style_Sheets )
-3. **JS**: [WikipédiA] ( https://pt.wikipedia.org/wiki/JavaScript )
+1. **HTML**: [WikipédiA](https://pt.wikipedia.org/wiki/HTML)
+2. **CSS**: [WikipédiA](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
+3. **JS**: [WikipédiA](https://pt.wikipedia.org/wiki/JavaScript)
