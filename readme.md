@@ -58,9 +58,9 @@ function addToList(num, pos)
 
 ## Imagens da tela
 tela 1: tela de abertura
-![](/img/Loteria Vazia.png)
+[](/img/Loteria Vazia.png)
 tela 2: 6 numeros digitados nenhum sorteado
-![](/img/Loteria Erro 61.png)
+[](/img/Loteria Erro 61.png)
 
 #### Referências
 1. **HTML**: [WikipédiA](https://pt.wikipedia.org/wiki/HTML)
