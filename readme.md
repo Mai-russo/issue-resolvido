@@ -60,7 +60,7 @@ function addToList(num, pos)
 tela 1: tela de abertura
 ![](/img/tela1.png)
 tela 2: 6 numeros digitados nenhum sorteado
-![](/img/tela2.png)
+![](/img/tela2.png) 
 
 #### Referências
 1. **HTML**: [WikipédiA](https://pt.wikipedia.org/wiki/HTML)
