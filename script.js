@@ -2,7 +2,6 @@ var numSort = []
 var numEsco = []
 let sort
 let cont
-
 function sortearNumeros()
 {
   numSort = []
@@ -29,12 +28,12 @@ function addToList(num, pos)
   {
     if (numEsco.includes(num))
     {
-        alert("Porfavor Não repetir números")
+        alert2(PorFavor Não repetir números)
     }
 
     else if (parseInt(num) <= 0|| parseInt(num) > 60)
     {
-      alert("O Número digitado deve ser de 1 a 60")
+      alert2("O Número digitado deve ser de 1 a 60")
     }
 
         else
@@ -43,7 +42,13 @@ function addToList(num, pos)
         }
   }
 }
-
+function alert2(texto){
+  swal.fire(
+  'Oops!',
+  texto,
+  'error'
+)
+}
 function verificarAcertos()
 {
     sortearNumeros()
@@ -51,7 +56,7 @@ function verificarAcertos()
     let cont = 0
     if (numEsco.length !== 6)
       {
-      alert("Termine de selecionar os 6 Numeros\n digite 6 números de 01 a 60")
+      alert2("Termine de selecionar os 6 Numeros\n digite 6 números de 01 a 60")
       }
 
       else
